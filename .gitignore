@@ -1,0 +1,11 @@
+# Archivos temporales de SolidWorks
+*.sldprt~
+*.bak
+
+# Archivos de simulación
+*.log
+*.tmp
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
