@@ -10,7 +10,7 @@ Colocar aquí links de referencias que sirvan como ideas para inspiración del p
 - `Building a sub 250g Autonomous Drone with Ardupilot and ExpressLRS AirPort Telemetry`: https://www.youtube.com/watch?v=u_ArriXbrR0
 
 ## Reels
-- 
+- https://www.instagram.com/p/DEWGNaNST4x/
 
 ## Modelos
 - `VTOL Servo Motor Mount`: https://www.thingiverse.com/thing:2943060
