@@ -1,17 +1,17 @@
 # Estructura de Desglose del Trabajo (EDT)
 
-## 1. Inicio del proyecto
+## 1. Inicio del proyecto // Iniciación
 1.1 Redacción del acta de constitución  
 1.2 Identificación de interesados  
 1.3 Organización del repositorio y herramientas de trabajo  
 
-## 2. Planificación
+## 2. Planificación // Planeación
 2.1 Elaboración del cronograma  
 2.2 Análisis de riesgos  
 2.3 Plan de comunicaciones  
 2.4 Estimación de presupuesto  
 
-## 3. Diseño del mecanismo rotatorio
+## 3. Diseño del mecanismo rotatorio // 
 3.1 Investigación y análisis de mecanismos similares  
 3.2 Diseño conceptual del mecanismo  
 3.3 Evaluación de alternativas  
@@ -36,3 +36,19 @@
 7.1 Revisión de entregables  
 7.2 Lecciones aprendidas  
 7.3 Presentación de resultados  
+
+# Work Breakdown Structure - Taks
+
+| Task No. | Descripción                            | Duración estimada | Fecha inicio | Fecha fin    | Responsable     |
+|----|--------------------------------------|--------------------|--------------|--------------|-----------------|
+| 1  | Redactar acta de constitución        | 2 días             | [Fecha]      | [Fecha]      | Coordinador     |
+| 2  | Establecer cronograma y EDT          | 2 días             | [Fecha]      | [Fecha]      | Todos           |
+| 3  | Investigación de mecanismos           | 5 días             | [Fecha]      | [Fecha]      | Diseño/Simulación |
+| 4  | Diseño conceptual del mecanismo      | 5 días             | [Fecha]      | [Fecha]      | CAD             |
+| 5  | Modelado CAD inicial                 | 7 días             | [Fecha]      | [Fecha]      | CAD             |
+| 6  | Simulación de funcionamiento         | 5 días             | [Fecha]      | [Fecha]      | Simulación      |
+| 7  | Optimización del diseño              | 3 días             | [Fecha]      | [Fecha]      | CAD             |
+| 8  | Prototipado (impresión y armado)     | 7 días             | [Fecha]      | [Fecha]      | Todos           |
+| 9  | Pruebas y ajustes                    | 5 días             | [Fecha]      | [Fecha]      | Todos           |
+| 10 | Documentación final e informe        | 4 días             | [Fecha]      | [Fecha]      | Documentación   |
+| 11 | Revisión y cierre del proyecto       | 2 días             | [Fecha]      | [Fecha]      | Coordinador     |
