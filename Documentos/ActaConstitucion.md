@@ -4,10 +4,10 @@
 **Desarrollo y adaptación de un prototipo de mecanismo de rotación para los motores de un UAV-VTOL**
 
 ## Fecha de inicio
-Mayo 2025
+16 de Mayo 2025
 
 ## Fecha estimada de finalización
-Agosto 2025
+14 de Agosto 2025
 
 ## Justificación del proyecto
 El desarrollo de vehículos aéreos no tripulados con capacidades VTOL (Vertical Take-Off and Landing) representa una tendencia creciente en aplicaciones civiles y comerciales. Este proyecto busca diseñar y adaptar un mecanismo rotatorio para los motores de un UAV que permita la transición entre el despegue vertical y el vuelo horizontal con ala fija, optimizando eficiencia y maniobrabilidad.
@@ -35,9 +35,6 @@ No incluye:
 - Informe técnico con simulaciones y pruebas.
 - Documentación de gestión del proyecto según PMBOK.
 
-## Patrocinador del proyecto
-[Nombre o entidad patrocinadora, si aplica]
-
 ## Director del proyecto
 [Tu nombre o del responsable principal]
 
@@ -58,8 +55,5 @@ No incluye:
 - Alcance limitado a la parte mecánica del sistema VTOL.
 
 ## Aprobación
-Nombre y firma del patrocinador: _________________________  
-Fecha: ________________
-
 Nombre y firma del director del proyecto: __________________  
 Fecha: ________________
