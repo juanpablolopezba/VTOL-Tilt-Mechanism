@@ -9,7 +9,7 @@
 
 ## 2. Requisitos estructurales
 
-- **Peso máximo del mecanismo**: 500 gramos (incluyendo materiales, motor/servo, uniones y soporte).
+- **Peso máximo del mecanismo**: 200 gramos (incluyendo materiales, motor/servo, uniones y soporte).
 - El diseño debe soportar un **momento de torsión mínimo de 2 N·m** sin deformarse de forma permanente.
 - **Tolerancia dimensional máxima**: ±0.2 mm para partes móviles o ensambladas.
 - Integración mecánica con el ala y el cuerpo del UAV mediante puntos de anclaje definidos (mínimo 3 puntos de sujeción).
@@ -29,9 +29,9 @@
   - Mecanizables en fresadora CNC o fabricables con herramientas básicas.
 - Tiempo estimado de fabricación por unidad: **< 6 horas** (prototipo).
 
-## 5. Requisitos eléctricos (si aplica)
+## 5. Requisitos eléctricos
 
-- En caso de motorización activa:
+- Motorización activa:
   - **Voltaje operativo del motor/servo**: 5V – 12V DC.
   - Consumo máximo estimado: **< 1 A** por unidad.
   - Compatibilidad con control PWM o protocolo I2C (según microcontrolador del UAV).
