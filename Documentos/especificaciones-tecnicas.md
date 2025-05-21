@@ -1,4 +1,4 @@
-# Requisitos Técnicos – Proyecto UAV-VTOL: Mecanismo Rotatorio de Motores
+# Requisitos Técnicos 
 
 ## 1. Requisitos funcionales
 
