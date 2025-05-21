@@ -11,14 +11,14 @@
 
 - **Peso máximo del mecanismo**: 200 gramos (incluyendo materiales, motor/servo, uniones y soporte).
 - El diseño debe soportar un **momento de torsión mínimo de 2 N·m** sin deformarse de forma permanente.
-- **Tolerancia dimensional máxima**: ±0.2 mm para partes móviles o ensambladas.
+- **Tolerancia dimensional máxima**: ±0.8 mm para partes móviles o ensambladas.
 - Integración mecánica con el ala y el cuerpo del UAV mediante puntos de anclaje definidos (mínimo 3 puntos de sujeción).
 
 ## 3. Requisitos de materiales
 
 - Los materiales principales deben ser:
   - **PLA+ o PETG** para impresión 3D (prototipo funcional).
-  - **Aluminio 6061-T6** o equivalente en caso de versión fabricada para vuelo real.
+  - **Aluminio 6061-T6** o equivalente en caso de piezas mecanizadas.
 - Todas las piezas deben tener **resistencia a la fatiga y buena estabilidad térmica** (mínimo 50°C de operación continua).
 - Cojinetes, rodamientos o ejes deberán ser de **acero inoxidable o latón**.
 
