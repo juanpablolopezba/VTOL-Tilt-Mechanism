@@ -12,6 +12,8 @@
 ## Justificación del proyecto
 El desarrollo de vehículos aéreos no tripulados con capacidades VTOL (Vertical Take-Off and Landing) representa una tendencia creciente en aplicaciones civiles y comerciales. Este proyecto busca diseñar y adaptar un mecanismo rotatorio para los motores de un UAV que permita la transición entre el despegue vertical y el vuelo horizontal con ala fija, optimizando eficiencia y maniobrabilidad.
 
+El principal problema de consumo eléctrico en el vehículo se debe a la configuración de empuje vertical por los motores fijos y el desaprovechamiento del perfil alar que proporciona una mayor sustentación. Reduciendo este consumo eléctrico se puede disminuir drásticamente el peso en el vehículo, ya que la batería que le alimenta representa alrededor de un 70% a 75% del peso total.
+
 ## Objetivos del proyecto
 - Diseñar un mecanismo rotatorio funcional para motores de un UAV-VTOL.
 - Validar el diseño mediante simulaciones y análisis.
