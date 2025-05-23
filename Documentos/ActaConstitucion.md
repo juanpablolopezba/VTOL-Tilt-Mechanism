@@ -39,13 +39,13 @@ No incluye:
 - Documentación de gestión del proyecto según PMBOK.
 
 ## Director del proyecto
-[Tu nombre o del responsable principal]
+Juan Pablo López Batalla
 
 ## Equipo de trabajo
-- [Nombre 1] – Responsable de diseño CAD
-- [Nombre 2] – Responsable de simulación
-- [Nombre 3] – Responsable de documentación
-- [Nombre 4] – Coordinador general
+- Santiago – Responsable de diseño CAD
+- Kenya – Responsable de simulación
+- Carlos – Responsable de documentación
+- Cesar Vargas – Coordinador general
 
 ## Supuestos
 - Se contará con acceso a SolidWorks y/o Fusion 360.
