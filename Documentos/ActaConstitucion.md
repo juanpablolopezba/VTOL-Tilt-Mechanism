@@ -12,6 +12,8 @@
 ## Justificación del proyecto
 El desarrollo de vehículos aéreos no tripulados con capacidades VTOL (Vertical Take-Off and Landing) representa una tendencia creciente en aplicaciones civiles y comerciales. Este proyecto busca diseñar y adaptar un mecanismo rotatorio para los motores de un UAV que permita la transición entre el despegue vertical y el vuelo horizontal con ala fija, optimizando eficiencia y maniobrabilidad.
 
+El principal problema de consumo eléctrico en el vehículo se debe a la configuración de empuje vertical por los motores fijos y el desaprovechamiento del perfil alar que proporciona una mayor sustentación. Reduciendo este consumo eléctrico se puede disminuir drásticamente el peso en el vehículo, ya que la batería que le alimenta representa alrededor de un 70% a 75% del peso total.
+
 ## Objetivos del proyecto
 - Diseñar un mecanismo rotatorio funcional para motores de un UAV-VTOL.
 - Validar el diseño mediante simulaciones y análisis.
@@ -22,7 +24,7 @@ El desarrollo de vehículos aéreos no tripulados con capacidades VTOL (Vertical
 Incluye:
 - Análisis conceptual y selección de mecanismo rotatorio.
 - Modelado CAD y simulaciones (estructurales y dinámicas).
-- Integración básica en chasis de UAV.
+- Integración básica del prototipo en chasis de UAV.
 - Documentación técnica y administrativa.
   
 No incluye:
@@ -35,8 +37,8 @@ No incluye:
 - Informe técnico con simulaciones y pruebas.
 - Documentación de gestión del proyecto según PMBOK.
 
-## Director del proyecto
-[Tu nombre o del responsable principal]
+## Lider del proyecto
+Juan Pablo López Batalla
 
 ## Equipo de trabajo
 - [Nombre 1] – Responsable de diseño CAD
@@ -47,7 +49,7 @@ No incluye:
 ## Supuestos
 - Se contará con acceso a SolidWorks y/o Fusion 360.
 - Se dispondrá de recursos para impresión 3D o manufactura básica.
-- Se trabajará en un entorno colaborativo vía GitHub.
+- Se trabajará en un entorno colaborativo vía GitHub y Microsoft Teams.
 
 ## Restricciones
 - Tiempo limitado debido a responsabilidades académicas.
