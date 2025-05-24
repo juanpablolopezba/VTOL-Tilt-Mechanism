@@ -14,7 +14,7 @@ El desarrollo de vehículos aéreos no tripulados con capacidades VTOL (Vertical
 
 ## Objetivos del proyecto
 Objetivo general.
-- Diseñar e implementar un mecanismo rotatorio funcional basado en un sistema de piñón-cremallera para los motores de un UAV-VTOL, que permita el despliegue vertical y vuelo horizontal del vehículo, optimizando el uso de energía mediante una configuración eficiente de transmisión y control, y que esté completamente desarrollado y validado mediante pruebas experimentales.
+- Diseñar e implementar un mecanismo rotatorio funcional para los motores de un UAV-VTOL, que permita el despliegue vertical y vuelo horizontal del vehículo, optimizando el uso de energía mediante una configuración eficiente de transmisión y control, y que esté completamente desarrollado y validado mediante pruebas experimentales.
 
 Objetivos específicos.
 - Validar el diseño mediante simulaciones y análisis.
