@@ -14,7 +14,7 @@ El desarrollo de vehículos aéreos no tripulados con capacidades VTOL (Vertical
 
 ## Objetivos del proyecto
 Objetivo general.
-- Diseñar un mecanismo rotatorio funcional para motores de un UAV-VTOL.
+- Diseñar e implementar un mecanismo rotatorio funcional para los motores de un UAV-VTOL, que permita el despliegue vertical y vuelo horizontal del vehículo, optimizando el uso de energía mediante una configuración eficiente de transmisión y control, y que esté completamente desarrollado y validado mediante pruebas experimentales.
 
 Objetivos específicos.
 - Validar el diseño mediante simulaciones y análisis.
@@ -39,13 +39,13 @@ No incluye:
 - Documentación de gestión del proyecto según PMBOK.
 
 ## Director del proyecto
-[Tu nombre o del responsable principal]
+Juan Pablo López Batalla
 
 ## Equipo de trabajo
-- [Nombre 1] – Responsable de diseño CAD
-- [Nombre 2] – Responsable de simulación
-- [Nombre 3] – Responsable de documentación
-- [Nombre 4] – Coordinador general
+- Santiago – Responsable de diseño CAD
+- Kenya – Responsable de simulación
+- Carlos – Responsable de documentación
+- Cesar Vargas – Coordinador general
 
 ## Supuestos
 - Se contará con acceso a SolidWorks y/o Fusion 360.
